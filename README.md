@@ -1,8 +1,8 @@
-# jekyll-project-template
+# YosanoAkikoTankas
 
 Write a tagline here!
 
-By Your Name, Boston College
+Allia Keysor, Boston College
 
 ## About
 
