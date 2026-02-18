@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TBD</title><!-- Title for your edition.  Not the title of the original document -->
+                <editor xml:id="allia">Allia Keysor</editor>
+            </titleStmt>
+            <publicationStmt><!-- This is where you put information about the digital edition you're creating -->
+         <publisher>Boston College Digital Humanities</publisher>
+                <pubPlace>Chestnut Hill, MA</pubPlace>
+                <availability>
+                    <p>CC BY-NC</p>
+                </availability> <!--https://creativecommons.org/share-your-work/cclicenses/-->
+            </publicationStmt>
+            <sourceDesc><!-- This is where you put information about the source you're digitizing -->
+                <bibl>
+                    <title type="full">
+                        <title type="main">A Girl with Tangled Hair</title>
+                            <title type="sub">The 399 tanka in <hi rend="italic">Midaregami - Tangled Hair</hi> by Akiko Yosano</title>
+                    </title>
+                    <author>Akiko Yosano</author>
+                    <translator>Jane Reichold and Machiko Kobayashi</translator>
+                    <publisher>AHA Books</publisher>
+                    <date>2014</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <encodingDesc><!-- This is an optional element where you should put information about the encoding choices you made -->
+            <projectDesc>
+                <p></p>
+            </projectDesc>
+            <editorialDecl>
+                <p></p>
+            </editorialDecl>
+            <tagsDecl></tagsDecl>
+        </encodingDesc>
+        
+        <profileDesc><!-- This is an optional element where you can put non-bibliographic (usually contextual) information about the source you're digitizing -->
+            <creation><date></date></creation>
+        </profileDesc>
+        
+        <revisionDesc><!-- This is where you keep track of the changes you make to your file -->
+            <change who="allia" when="11 feb 2026"></change> <!--tankas 1-10, 11 is template-->
+            <change who="" when=""></change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body> <!--reminder to ask Ashlyn abt page numbers/if she thinks they're necessary-->
+            <div1> 
+                <div2 n="1"> <!--tanka #1...how should I label each poem?-->
+                <head>1</head>
+                    <div3 type="Japanese Text">
+                        <lg> 
+                            <l>夜の帳にささめき盡きし星の今を下界の人の鬢のほつれよ</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>yo no chU+014Dni</l>
+                            <l>sasameki tsukishi</l>
+                            <l>hoshi no ima wo</l>
+                            <l>gekai no hito no</l>
+                            <l>bin no hotsure yo</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>bedroom curtains</l>
+                            <l>the lovers' talk ends</l>
+                            <l>now a star</l>
+                            <l>one person of this earth</l>
+                            <l>has stray hairs at the temple</l>
+                        </lg>
+                    </div3>
+                </div2>  
+                <div2> <!--tanka #2-->
+                <head>2</head>
+                    <div3>
+                        <lg> 
+                            <l>歌にきけな誰れ野の花に紅き否むおもむきあるかな春罪もつ子</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>uta ni kike na</l>
+                            <l>dare no no hana ni</l>
+                            <l>akaki inamu</l>
+                            <l>omomuki aru kana</l>
+                            <l>haru tsumi motsu ko</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>ask among poems</l>
+                            <l>who denied a bright red</l>
+                            <l>to field flowers</l>
+                            <l>a girl is so attractive</l>
+                            <l>with her skin of scarlet</l>
+                        </lg>
+                    </div3>
+                </div2>  
+                <div2> <!--tanka #3-->
+                <head>3</head>
+                    <div3>
+                        <lg> 
+                            <l>髪五尺ときなば水にやはらかき少女ごころは秘めて放たじ</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>kami goshaku</l>
+                            <l>tokinaba mizu ni</l>
+                            <l>yawarakaki</l>
+                            <l>otome gokoro wa</l>
+                            <l>himete hanataji</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>hair five feet</l>
+                            <l>loosened in water</l>
+                            <l>softly sways</l>
+                            <l>as does a young girl's heart</l>
+                            <l>unable to free itself</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #4-->
+                <head>4</head>
+                    <div3>
+                        <lg> 
+                            <l>血ぞもゆるかさむひと夜の夢のやど春を行く人神おとしめな</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>chi zo moyuru</l>
+                            <l>kasan hitoyo no</l>
+                            <l>yume no yado</l>
+                            <l>haru wo yuku hito</l>
+                            <l>kami otoshime na</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>blood burning</l>
+                            <l>will lend to one's night</l>
+                            <l>a lodging for dreams</l>
+                            <l>for one passing in spring</l>
+                            <l>the gods will not scorn</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #5-->
+                <head>5</head>
+                    <div3>
+                        <lg> 
+                            <l>椿それも梅もさなりき白かりきわが罪問はぬ色桃に見る</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>tsuakbi sore mo</l>
+                            <l>ume mo sanariki</l>
+                            <l>shirokariki</l>
+                            <l>waga tsumi towanu</l>
+                            <l>iro momo ni miru</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>pure white camellias</l>
+                            <l>the same as <hi rend="italic">ume</hi> plums that</l>
+                            <l>do not allow my love</l>
+                            <l>what never blames my sin</l>
+                            <l>is only the color of peach</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #6-->
+                <head>6</head>
+                    <div3>
+                        <lg> 
+                            <l>その子二十櫛にながるる黒髪のおごりの春のうつくしきかな</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>sono no hatachi</l>
+                            <l>kushi ni nagaruru</l>
+                            <l>kurokami no</l>
+                            <l>ogori no haru no</l>
+                            <l>utsukushiki kana</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>the girl is twenty</l>
+                            <l>her hair is a black stream</l>
+                            <l>running through a comb</l>
+                            <l>in spring even pride</l>
+                            <l>is beautiful</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #7-->
+                <head>7</head>
+                    <div3>
+                        <lg> 
+                            <l>堂の鐘のひくきゆふべを前髪の桃のつぼみに經たまへ君</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>dU+014D no kane no</l>
+                            <l>hikuki yU+016Bbe wo</l>
+                            <l>maegami no</l>
+                            <l>momo no tsubomi ni</l>
+                            <l>kyU+014D tamae kimi</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>a temple bell</l>
+                            <l>softly rings at evening</l>
+                            <l>my front hair</l>
+                            <l>adorned with a peach bud</l>
+                            <l>dear, chant your sutra for that</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #8-->
+                <head>8</head>
+                    <div3>
+                        <lg> 
+                            <l>紫にもみうらにほふみだれ篋をかくしわづらふ宵の春の神</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>murasaki ni</l>
+                            <l>momiura niou</l>
+                            <l>midarebako wo</l>
+                            <l>kakusi wazurau</l>
+                            <l>yoi no haru no kami</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>the scent of purple</l>
+                            <l>lingers on the red lining</l>
+                            <l>in a clothes basket;</l>
+                            <l>hiding it is hard</l>
+                            <l>for god in the spring evening</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #9-->
+                <head>9</head>
+                    <div3>
+                        <lg> 
+                            <l>臙脂色は誰にかたらむ血のゆらぎ春のおもひのさかりの命</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>enjiiro wa</l>
+                            <l>dare ni kataran</l>
+                            <l>chi no yuragi</l>
+                            <l>haru no omoi no</l>
+                            <l>sakari no inochi</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>dark red</l>
+                            <l>to whom can I tell</l>
+                            <l>the flaring blood</l>
+                            <l>in a spring of passion</l>
+                            <l>in the prime of life</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #10-->
+                <head>10</head>
+                    <div3>
+                        <lg> 
+                            <l>紫の濃き虹説きしさかづきに映る春の子眉毛かぼそき</l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l>murasaki no</l>
+                            <l>koki niji tokishi</l>
+                            <l>sakazuki ni</l>
+                            <l>utsuru haru no ko</l>
+                            <l>mayuge kabosoki</l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l>deep purple</l>
+                            <l>he tells of rainbow love</l>
+                            <l>over a wine cup</l>
+                            <l>reflecting a girl in spring</l>
+                            <l>with the thin eyebrows</l>
+                        </lg>
+                    </div3>
+                </div2> 
+                <div2> <!--tanka #11-->
+                <head>11</head>
+                    <div3>
+                        <lg> 
+                            <l></l>
+                        </lg>
+                    </div3>
+                    <div3 type="Romaji">
+                        <lg> 
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                        </lg>
+                    </div3>
+                    <div3 type="R/K English Translation">
+                        <lg> 
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                        </lg>
+                    </div3>
+                </div2> 
+            </div1>
+        </body>
+    </text>
+</TEI>
